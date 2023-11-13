@@ -1,8 +1,10 @@
-// function.cpp: определяет точку входа для консольного приложения.
+// function.cpp: Г®ГЇГ°ГҐГ¤ГҐГ«ГїГҐГІ ГІГ®Г·ГЄГі ГўГµГ®Г¤Г  Г¤Г«Гї ГЄГ®Г­Г±Г®Г«ГјГ­Г®ГЈГ® ГЇГ°ГЁГ«Г®Г¦ГҐГ­ГЁГї.
 //
 
 #include "stdafx.h"
 #include "stdlib.h"
+#include "project.h"
+
 bool verifIndex(int a)
 {
 	if (a % 2 == 0)
