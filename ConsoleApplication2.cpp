@@ -1,0 +1,19 @@
+// ConsoleApplication2.cpp: определяет точку входа для консольного приложения.
+//
+
+#include "stdafx.h"
+
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	struct myFunc{
+		int a;
+		int b;
+		int c;
+
+
+	};
+	stuct myFunc D;
+
+}
+
